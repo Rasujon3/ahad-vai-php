@@ -1,0 +1,21 @@
+<?php
+echo pi();
+echo "\n";
+echo (min(0, 150, 30, 20, -8, -200));
+echo "\n";
+echo (max(0, 150, 30, 20, -8, -200));
+echo "\n";
+echo abs(-6.6);
+echo "\n";
+echo sqrt(64);
+echo "\n";
+echo (round(0.60));
+echo "\n";
+echo (round(0.49));
+echo "\n";
+echo (round(0.5));
+echo "\n";
+echo (rand(10, 100));
+echo "\n";
+define("GREETING", "Welcome to W3Schools.com!");
+echo GREETING;
